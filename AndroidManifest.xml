@@ -1,0 +1,1 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.tarefasemanais"><application android:label="Tarefas TDAH" android:icon="@mipmap/ic_launcher"></application></manifest>
